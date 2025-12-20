@@ -10,16 +10,14 @@
 
 ###
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif"  />
-
-###
-
 <p align="left">📚 Currently learning Backend development exploring how APIs and databases work behind the scenes. <br><br>🎲 Fun fact: You can be a great vibe coder only if you were a great programmer once upon a time</p>
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif"  />
 </div>
 
 ###
